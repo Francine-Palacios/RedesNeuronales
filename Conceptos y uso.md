@@ -1,4 +1,4 @@
-# RedesNeuronales
+# Redes Neuronales
 
 
 Es una tecnica del aprendizaje automatico, que toma las entradas, los resultados esperados de cada entrada, y asi aprender el algortimo necesario para hacer tal conversion.
